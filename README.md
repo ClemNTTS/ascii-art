@@ -12,12 +12,8 @@ To run the program, you need to provide exactly two arguments: the sentence you 
 EXAMPLE :
 
 >go run main.go "Hello, World!" standard.txt
- _    _          _   _                __          __                 _       _   _  
-| |  | |        | | | |               \ \        / /                | |     | | | | 
-| |__| |   ___  | | | |   ___          \ \  /\  / /    ___    _ __  | |   __| | | | 
-|  __  |  / _ \ | | | |  / _ \          \ \/  \/ /    / _ \  | '__| | |  / _` | | | 
-| |  | | |  __/ | | | | | (_) |          \  /\  /    | (_) | | |    | | | (_| | |_| 
-|_|  |_|  \___| |_| |_|  \___/            \/  \/      \___/  |_|    |_|  \__,_| (_) 
+>![image](https://github.com/ClemNTTS/ascii-art/assets/161344481/7bb5244f-0c34-42ff-acd7-f65f6b9a1742)
+
                                                                                     
     
 ERROR HANDLING :
