@@ -13,20 +13,13 @@ EXAMPLE :
 
 >go run main.go "Hello, World!" standard.txt
  _    _          _   _                __          __                 _       _   _  
- 
 | |  | |        | | | |               \ \        / /                | |     | | | | 
-
 | |__| |   ___  | | | |   ___          \ \  /\  / /    ___    _ __  | |   __| | | | 
-
 |  __  |  / _ \ | | | |  / _ \          \ \/  \/ /    / _ \  | '__| | |  / _` | | | 
-
 | |  | | |  __/ | | | | | (_) |          \  /\  /    | (_) | | |    | | | (_| | |_| 
-
 |_|  |_|  \___| |_| |_|  \___/            \/  \/      \___/  |_|    |_|  \__,_| (_) 
-
                                                                                     
     
-
 ERROR HANDLING :
 
 The program checks if the correct number of arguments is provided. If not, it prints the following error message and exits:
